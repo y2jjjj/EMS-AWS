@@ -1,1 +1,6 @@
-
+customhost = "YOUR_RDS_ENDPOINT"
+customuser = "YOUR_DB_USER"
+custompass = "YOUR_DB_PASSWORD"
+customdb = "YOUR_DB_NAME"
+custombucket = "YOUR_S3_BUCKET"
+customregion = "YOUR_REGION"
